@@ -68,10 +68,8 @@ jupyter notebook
 ## 🤝 Contributing
 Contributions are welcome! If you find any issues or have suggestions, feel free to open a pull request or an issue. Let's learn together! 🌟
 
-## 📞 Contact
-For any questions or discussions, feel free to reach out:
-- **GitHub**: [HajarElbehairy](https://github.com/HajarElbehairy)
-- **LinkedIn**: [Your LinkedIn (if applicable)]
+
+  
 
 ---
 🌟 _Happy Coding & Keep Exploring Machine Learning!_ 🌟
